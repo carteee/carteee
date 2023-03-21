@@ -6,10 +6,10 @@ Anyway I like:
 
 - Python
 - Javascript
-- 
+
 And I hate:
 
 - CSS
 - Any disgusting C language
-- 
+
 HTML is kind of like a ying-yang.
