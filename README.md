@@ -12,4 +12,4 @@ And I hate:
 - CSS
 - Any disgusting C language
 
-HTML is kind of like a ying-yang.
+HTML is kind of like a yin and yang.
