@@ -1,15 +1,5 @@
-Hello, I'm Carter.
+Hello! I'm a barely full-stack developer that relies on ChatGPT to get literally anything done.
 
-I have another Github account but this one is more professional so...
+I mainly mess around with web dev and stuff, but sometimes experiment with other languages.
 
-Anyway I like:
-
-- Python
-- Javascript
-
-And I hate:
-
-- CSS
-- Any disgusting C language
-
-HTML is kind of like a yin and yang.
+I also listen to music, a lot, like, a lot, a lot, so here's my [stats.fm](https://stats.fm/slyrp).
